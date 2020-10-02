@@ -2,102 +2,101 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="",AMARNETTV:INTERNET TV FOR ALL
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/amarnettvFree.mp4
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/g0y5j2ky957pv92/ANT1.png" group-title="",ANT HOME 1
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1601589906/ei/Mv51X8fTJZSF3LUPwrOtqAQ/ip/103.120.194.39/id/4OL3rn2Dq38.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOdDlwI2czLOx8ILDVwcSP86LtdfPkTUden1Jc1OLtxcAiEAu-FWcN3y03amP9zwfIVUQ7WfhB1mTnGr1T2vf2jakEA%3D/file/index.m3u8
+https://dl.dropbox.com/s/87iu9gyh3lxp3tc/User%20Guide-%20AMARNETTV%20Android%20app_Full-HD.mp4
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/g0y5j2ky957pv92/ANT1.png" group-title="",ANT HOME 2
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1601589982/ei/fv51X-HUGciA9fwPrYe9mAU/ip/103.120.194.39/id/4f2LP1NzY50.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAL1o6cw7wnvmk0kzGAr3gxH7XdKyOWHKsT_dnpoBE6NwAiEAivZDnGJrTIy9QdXAbxS0GDcATJ9etLma7k5UgYRp0EI%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/g0y5j2ky957pv92/ANT1.png" group-title="",ANT HOME 3
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1601648455/ei/5-J2X5qSEYiRwgPX24nwCg/ip/103.120.194.34/id/zCuXmsdn7M4.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/gcr/bd/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgG82HDa6Y4Wui6uFKVsT8jWqqKgoz2pP7Skr1z4n7WioCIQCuQTTlpcc_pKwZK2pDwzx8NzNAKN088SntwvNQRNWs7A%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/40yvi62wy59gu3r/sangsad_tv_bd.png" group-title="JAGO BD IPTV"JAGO_Sangsad TV [ fb.com/amarnettv]
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1601657924/ei/5Ad3X7PVNr3X3LUPw5GzwA0/ip/103.120.194.36/id/tn1NdI3TqxE.0/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/1080/maudio/1/gcr/bd/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKlvmI_27gtjs1Vma6alwRV5wUgg1AuLzUxekurDufkwAiAyKPZdEg0QBTNzzBK-Hr0a98OmjeygAKGWgFM3bDoy3g%3D%3D/file/index.m3u8#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/40yvi62wy59gu3r/sangsad_tv_bd.png" group-title="JAGO BD IPTV",JAGO_Sangsad TV [ fb.com/amarnettv]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ynmbf1f9g2pu3y5/btv_world.png" group-title="JAGO BD IPTV"JAGO_BTV WORLD [ fb.com/amarnettv]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ynmbf1f9g2pu3y5/btv_world.png" group-title="JAGO BD IPTV",JAGO_BTV WORLD [ fb.com/amarnettv]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJra7BS.jpg" group-title="JAGO BD IPTV"JAGO_BTV [CTG]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJra7BS.jpg" group-title="JAGO BD IPTV",JAGO_BTV [CTG]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/a17x59hbhvzf9it/atn_bangla.png" group-title="JAGO BD IPTV"JAGO_ATN BANGLA [ fb.com/amarnettv]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/a17x59hbhvzf9it/atn_bangla.png" group-title="JAGO BD IPTV",JAGO_ATN BANGLA [ fb.com/amarnettv]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ul1hoiovemyyhp8/channel_i.png" group-title="JAGO BD IPTV"JAGO_CHANNEL I HD [ fb.com/amarnettv]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ul1hoiovemyyhp8/channel_i.png" group-title="JAGO BD IPTV",JAGO_CHANNEL I HD [ fb.com/amarnettv]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/uordrcep05gvxr3/rtv_bd.png" group-title="JAGO BD IPTV"JAGO_RTV HD [ fb.com/amarnettv]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/uordrcep05gvxr3/rtv_bd.png" group-title="JAGO BD IPTV",JAGO_RTV HD [ fb.com/amarnettv]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png" group-title="JAGO BD IPTV"JAGO_BOISHAKHI TV [ fb.com/amarnettv]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png" group-title="JAGO BD IPTV",JAGO_BOISHAKHI TV [ fb.com/amarnettv]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/qx0fxyv7rdx2uwi/bangla_vision.png" group-title="JAGO BD IPTV"JAGO_BANGLA VISION [ fb.com/amarnettv]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/qx0fxyv7rdx2uwi/bangla_vision.png" group-title="JAGO BD IPTV",JAGO_BANGLA VISION [ fb.com/amarnettv]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png" group-title="JAGO BD IPTV"JAGO_MY TV HD [ fb.com/amarnettv]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png" group-title="JAGO BD IPTV",JAGO_MY TV HD [ fb.com/amarnettv]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/189fwepu9ab32gw/channel9_bd.png" group-title="JAGO BD IPTV"JAGO_CHANNEL 9 HD [ fb.com/amarnettv]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/189fwepu9ab32gw/channel9_bd.png" group-title="JAGO BD IPTV",JAGO_CHANNEL 9 HD [ fb.com/amarnettv]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/avuaf3stbx17d41/asian_tv_bd.png" group-title="JAGO BD IPTV"JAGO_ASIAN TV HD [ fb.com/amarnettv]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/avuaf3stbx17d41/asian_tv_bd.png" group-title="JAGO BD IPTV",JAGO_ASIAN TV HD [ fb.com/amarnettv]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/qpe0m526qc1tral/sa_tv_bd.png" group-title="JAGO BD IPTV"JAGO_SA TV HD [ fb.com/amarnettv]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/qpe0m526qc1tral/sa_tv_bd.png" group-title="JAGO BD IPTV",JAGO_SA TV HD [ fb.com/amarnettv]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/z9ca0b0m8zo4f4b/bangla-tv-bd.png" group-title="JAGO BD IPTV"JAGO_BANGLA TV HD [ fb.com/amarnettv]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/z9ca0b0m8zo4f4b/bangla-tv-bd.png" group-title="JAGO BD IPTV",JAGO_BANGLA TV HD [ fb.com/amarnettv]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" group-title="JAGO BD IPTV"JAGO_ATN NEWS [ fb.com/amarnettv]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" group-title="JAGO BD IPTV",JAGO_ATN NEWS [ fb.com/amarnettv]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="JAGO BD IPTV"JAGO_INDEPENDENT TV [ fb.com/amarnettv]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="JAGO BD IPTV",JAGO_INDEPENDENT TV [ fb.com/amarnettv]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="JAGO BD IPTV"JAGO_SOMOY TV [ fb.com/amarnettv]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="JAGO BD IPTV",JAGO_SOMOY TV [ fb.com/amarnettv]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="JAGO BD IPTV"JAGO_CHANNEL 24 [ fb.com/amarnettv]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="JAGO BD IPTV",JAGO_CHANNEL 24 [ fb.com/amarnettv]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="JAGO BD IPTV"JAGO_JAMUNA TV [ fb.com/amarnettv]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="JAGO BD IPTV",JAGO_JAMUNA TV [ fb.com/amarnettv]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="JAGO BD IPTV"JAGO_NEWS 24 HD [ fb.com/amarnettv]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="JAGO BD IPTV",JAGO_NEWS 24 HD [ fb.com/amarnettv]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/lj9s11dqzleti2a/dbc_news_bd.png" group-title="JAGO BD IPTV"JAGO_DBC NEWS HD [ fb.com/amarnettv]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/lj9s11dqzleti2a/dbc_news_bd.png" group-title="JAGO BD IPTV",JAGO_DBC NEWS HD [ fb.com/amarnettv]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/hsd251vq24vfr0j/bijoy_tv.png" group-title="JAGO BD IPTV"JAGO_BIJOY TV HD [ fb.com/amarnettv]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/hsd251vq24vfr0j/bijoy_tv.png" group-title="JAGO BD IPTV",JAGO_BIJOY TV HD [ fb.com/amarnettv]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/31k6q9ajx36he7i/ananda-tv-bd.png" group-title="JAGO BD IPTV"JAGO_ANANDA TV HD [ fb.com/amarnettv]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/31k6q9ajx36he7i/ananda-tv-bd.png" group-title="JAGO BD IPTV",JAGO_ANANDA TV HD [ fb.com/amarnettv]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d48uZCk.png" group-title="JAGO BD IPTV"JAGO_CHANNEL S [UK] [ fb.com/amarnettv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d48uZCk.png" group-title="JAGO BD IPTV",JAGO_CHANNEL S [UK] [ fb.com/amarnettv]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AntJjP7.jpg" group-title="JAGO BD IPTV"JAGO_MY CINEMA IPTV [ fb.com/amarnettv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AntJjP7.jpg" group-title="JAGO BD IPTV",JAGO_MY CINEMA IPTV [ fb.com/amarnettv]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg" group-title="JAGO BD IPTV"JAGO_Movie Bangla TV [ fb.com/amarnettv]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg" group-title="JAGO BD IPTV",JAGO_Movie Bangla TV [ fb.com/amarnettv]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/08/Biswa-Bangla-24.png" group-title="JAGO BD IPTV"JAGO_Biswa Bangla 24 TV [ fb.com/amarnettv]
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/08/Biswa-Bangla-24.png" group-title="JAGO BD IPTV",JAGO_Biswa Bangla 24 TV [ fb.com/amarnettv]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/biswabanglatv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/06/alponatv.jpg" group-title="JAGO BD IPTV"JAGO_Alpona IPTV [ fb.com/amarnettv]
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/06/alponatv.jpg" group-title="JAGO BD IPTV",JAGO_Alpona IPTV [ fb.com/amarnettv]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/alponatv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/bangla21tv.jpg?x91288" group-title="JAGO BD IPTV"JAGO_Bangla 21 IPTV [ fb.com/amarnettv]
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/bangla21tv.jpg?x91288" group-title="JAGO BD IPTV",JAGO_Bangla 21 IPTV [ fb.com/amarnettv]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bangla21tv000889956-sg.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/Cumilla24.jpeg" group-title="JAGO BD IPTV"JAGO_Cumilla 24 IPTV [ fb.com/amarnettv]
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/Cumilla24.jpeg" group-title="JAGO BD IPTV",JAGO_Cumilla 24 IPTV [ fb.com/amarnettv]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/cumilla24.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lGoxDN6.jpg" group-title="JAGO BD IPTV"JAGO_Deshe Bideshe [ fb.com/amarnettv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lGoxDN6.jpg" group-title="JAGO BD IPTV",JAGO_Deshe Bideshe [ fb.com/amarnettv]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LqQp9LH.jpg" group-title="JAGO BD IPTV"JAGO_Nan IPTV [ fb.com/amarnettv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LqQp9LH.jpg" group-title="JAGO BD IPTV",JAGO_Nan IPTV [ fb.com/amarnettv]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://joyjatra.tv/front_end_assets/images/logo.png" group-title="JAGO BD IPTV"JAGO_Joy Jatra TV
+#EXTINF:-1 tvg-logo="http://joyjatra.tv/front_end_assets/images/logo.png" group-title="JAGO BD IPTV",JAGO_Joy Jatra TV
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/joyjatratv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wQVJWSk/Varendra-TV.jpg" group-title="JAGO BD IPTV"JAGO_Varendra TV [ fb.com/amarnettv]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wQVJWSk/Varendra-TV.jpg" group-title="JAGO BD IPTV",JAGO_Varendra TV [ fb.com/amarnettv]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/varendratv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tBZhq2c/Roal-TV.jpg" group-title="JAGO BD IPTV"JAGO_Royal TV [ fb.com/amarnettv]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tBZhq2c/Roal-TV.jpg" group-title="JAGO BD IPTV",JAGO_Royal TV [ fb.com/amarnettv]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qVy4UdD.jpg" group-title="JAGO BD IPTV"JAGO_RANG IPTV [ fb.com/amarnettv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qVy4UdD.jpg" group-title="JAGO BD IPTV",JAGO_RANG IPTV [ fb.com/amarnettv]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rangiptv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/08/Voice-TV.jpg" group-title="JAGO BD IPTV"JAGO_VOICE IPTV [ fb.com/amarnettv]
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/08/Voice-TV.jpg" group-title="JAGO BD IPTV",JAGO_VOICE IPTV [ fb.com/amarnettv]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2018/04/live2web-logo-Converted.jpg?x91288" group-title="JAGO BD IPTV"JAGO_LIVE2WEB IPTV [ fb.com/amarnettv]
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2018/04/live2web-logo-Converted.jpg?x91288" group-title="JAGO BD IPTV",JAGO_LIVE2WEB IPTV [ fb.com/amarnettv]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/live2web.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kdez6Hz.jpg" group-title="JAGO BD IPTV"JAGO_PAN VISION IPTV [ fb.com/amarnettv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kdez6Hz.jpg" group-title="JAGO BD IPTV",JAGO_PAN VISION IPTV [ fb.com/amarnettv]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/panvisiontvs.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CIgayHY.jpg" group-title="JAGO BD IPTV"JAGO_NOKSHI IPTV [ fb.com/amarnettv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CIgayHY.jpg" group-title="JAGO BD IPTV",JAGO_NOKSHI IPTV [ fb.com/amarnettv]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nakshitv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7YYHYiW.png" group-title="JAGO BD IPTV"JAGO_Jagoroni IPTV [ fb.com/amarnettv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7YYHYiW.png" group-title="JAGO BD IPTV",JAGO_Jagoroni IPTV [ fb.com/amarnettv]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jagoronitv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Brv8XBm/NRB-TV.png" group-title="JAGO BD IPTV"JAGO_NRB IPTV [ fb.com/amarnettv]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Brv8XBm/NRB-TV.png" group-title="JAGO BD IPTV",JAGO_NRB IPTV [ fb.com/amarnettv]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/05/binodonbanglatv.jpg" group-title="JAGO BD IPTV"JAGO_Binodon Bangla IPTV [ fb.com/amarnettv]
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/05/binodonbanglatv.jpg" group-title="JAGO BD IPTV",JAGO_Binodon Bangla IPTV [ fb.com/amarnettv]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bindonbangla.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7Q3VtlF.png" group-title="JAGO BD IPTV"JAGO_ATN Islam [ fb.com/amarnettv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7Q3VtlF.png" group-title="JAGO BD IPTV",JAGO_ATN Islam [ fb.com/amarnettv]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="JAGO BD IPTV"JAGO_TITAS SPORTS [ fb.com/amarnettv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="JAGO BD IPTV",JAGO_TITAS SPORTS [ fb.com/amarnettv]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="JAGO BD IPTV"JAGO_GAAN BANGLA HD [ fb.com/amarnettv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="JAGO BD IPTV",JAGO_GAAN BANGLA HD [ fb.com/amarnettv]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" group-title="JAGO BD IPTV"JAGO_ATN Music [ fb.com/amarnettv]
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" group-title="JAGO BD IPTV",JAGO_ATN Music [ fb.com/amarnettv]
 https://tempamb.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV",MB_BTV National
 http://45.249.187.238:8081/hls/new24.m3u8
@@ -1348,7 +1347,7 @@ http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="SPORTS",## SPORTS ##
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/amarnettvFree.mp4
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png/v1/fill/w_1000,h_1000,al_c,usm_0.66_1.00_0.01/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png" group-title="SPORTS",IPL LIVE 1
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1601579421/ei/PdV1X5ysGJDqoQPqvqbIDw/ip/103.120.194.33/id/tn1NdI3TqxE.0/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/1080/maudio/1/gcr/bd/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAP6SeM6CMf1OWcDM4eMl9xSC2-5m0ZwUFJGrDKlZxYFiAiArFKtcX7d2974SOzdGwpIdFOr9vigrGnQpke67cjWQ1g%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1601657924/ei/5Ad3X7PVNr3X3LUPw5GzwA0/ip/103.120.194.36/id/tn1NdI3TqxE.0/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/1080/maudio/1/gcr/bd/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKlvmI_27gtjs1Vma6alwRV5wUgg1AuLzUxekurDufkwAiAyKPZdEg0QBTNzzBK-Hr0a98OmjeygAKGWgFM3bDoy3g%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png/v1/fill/w_1000,h_1000,al_c,usm_0.66_1.00_0.01/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png" group-title="SPORTS",IPL LIVE 2
 http://45.249.187.238:8081/hls/new2.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png/v1/fill/w_1000,h_1000,al_c,usm_0.66_1.00_0.01/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png" group-title="SPORTS",IPL LIVE 3
