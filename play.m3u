@@ -967,6 +967,10 @@ http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeecafes
 https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_World.png" group-title="WORLD MIXED",STAR WORLD HD
 http://198.255.87.59:8080/INDIA_ENGLISH/STAR_WORLD_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424357/71120749.png" group-title="WORLD MIXED", Star World Premiere HD
+http://198.255.87.59:8080/INDIA_ENGLISH/STAR_WORLD_PREMIER_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424357/75879240.png" group-title="WORLD MIXED",Colors Infinity HD
+http://198.255.87.59:8080/INDIA_ENGLISH/COLORS_INFINITY_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="WORLD MIXED",COLORS INFINITY HD
 http://89.187.169.203:2200/R-EX/ENGLISH_COLORS_INFINITY_HD-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png" group-title="WORLD MIXED",WARNER TV HD
@@ -1107,6 +1111,8 @@ http://198.255.87.59:8080/INDIA_HINDI/UTV_HD/tracks-v1a1/mono.m3u8?token=test
 http://89.187.169.204:2200/R-EX/HINDI_UTV_ACTION-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/mrxge9ngpu35r08/bindas.jpg" group-title="IND. MOVIES",UTV Bindaas
 http://185.59.222.234:2200/R-EX/HINDI_BINDAS_MOVIES-in/index.m3u8?token=
+#EXTINF: -1 tvg-logo="https://cdn.ndtv.com/tech/images/gadgets/miniplex_fb.jpg" group-title="IND. MOVIES",Miniplex HD
+http://198.255.87.59:8080/INDIA_HINDI/MINIPLEX_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925755500s.jpg" group-title="IND. MOVIES",WoW CINEMA
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ugF2t8q.png" group-title="IND. MOVIES",Enter 10 Movies
@@ -1420,7 +1426,7 @@ http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="SPORTS",## SPORTS ##
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/amarnettvFree.mp4
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png/v1/fill/w_1000,h_1000,al_c,usm_0.66_1.00_0.01/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png" group-title="SPORTS",IPL LIVE 1
-https://secure.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=6197375069001&secure=true&pubId=3588749423001&videoId=6197372079001
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1601913300/ei/dO16X9ewDNXy4-EPopWzwAY/ip/202.5.56.39/id/tn1NdI3TqxE.0/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/1080/maudio/1/gcr/bd/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOWBK_hjdqGhVVAXy_PG18hz__ufWjAa1M8eYziPOfN4AiEA8BUSAQve1aCEulf8WvA-O0bJ4W_uMvLdTish8epwe20%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png/v1/fill/w_1000,h_1000,al_c,usm_0.66_1.00_0.01/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png" group-title="SPORTS",IPL LIVE 2
 http://45.249.187.238:8081/hls/new2.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png/v1/fill/w_1000,h_1000,al_c,usm_0.66_1.00_0.01/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png" group-title="SPORTS",IPL LIVE 3
