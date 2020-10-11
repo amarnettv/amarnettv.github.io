@@ -719,6 +719,10 @@ http://45.249.187.238:8081/hls/new2.m3u8
 http://103.102.136.106:8080/cmcltv/gtv.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png/v1/fill/w_1000,h_1000,al_c,usm_0.66_1.00_0.01/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png" group-title="SPORTS (Free)",IPL LIVE 4
 http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png/v1/fill/w_1000,h_1000,al_c,usm_0.66_1.00_0.01/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png" group-title="SPORTS (Free)",IPL LIVE 5
+http://103.132.180.245:8080/2/index.m3u8?token=f249ee099ac31671f393eab1dd60d1d86ef3c31e-4af8c0a178661db3b32df38ac2f1a11a-1600616751-1600605951&remote=103.66.177.168
+#EXTINF:-1 tvg-logo="https://sgp1.digitaloceanspaces.com/cosmosgroup/news/2353776_3823938_Logo%20of%20BCB%20President's%20Cup.jpg" group-title="SPORTS (Free)",BCB President's Cup 2020
+https://video.fdac24-1.fna.fbcdn.net/hvideo-prn-ftw/s3/_nc_ohc-YyFHv2Xp0XYAX_L_Tqz/_nc_cat-1/v/rXRmqIX1OWZ0OFgiNI9s7/live-dash/dash-abr-ibr-audio/2752665531667910.mpd?_nc_rl=AfAAFcf66zavoIcbyhM&ms=m_CNP&oh=90f66546f95b063328b2e6ed2e5e9760&oe=5F847C30
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT34kk7eUaREq-SubvYv5NaqH5GN8KpOXHADg&usqp=CAU" group-title="SPORTS (Free)",Football LIVE 1
 https://g.troll.network/4/4.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT34kk7eUaREq-SubvYv5NaqH5GN8KpOXHADg&usqp=CAU" group-title="SPORTS (Free)",Football LIVE 2
