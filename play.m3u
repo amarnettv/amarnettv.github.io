@@ -502,10 +502,14 @@ https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbofamily.m3u8
 #EXTINF:-1 group-title="WORLD MOVIES (Free)" tvg-logo="https://i.imgur.com/9whd4No.png",HBO
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbo.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="WORLD MOVIES (Free)",HBO Chinese
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="WORLD MOVIES (Free)",HBO [Chinese]
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="WORLD MOVIES (Free)",HBO [India]
+http://anytv.live:8080/saiful/saiful/382
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="WORLD MOVIES (Free)",Star Movies HD
 http://otv.ftpbd.net/streams/125/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="WORLD MOVIES (Free)",Star Movies
+http://anytv.live:8080/saiful/saiful/345
 #EXTINF:-1 group-title="WORLD MOVIES (Free)" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png",FOX MOVIES PREMIUM EN
 https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/cinemax.png" group-title="WORLD MOVIES (Free)",Cinemax 
@@ -652,6 +656,10 @@ https://ott.bingebd.com:443/live/ngrp:sonic_all/playlist.m3u8
 https://ott.bingebd.com:443/live/ngrp:sony_yay_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1024px-2014_Disney_Channel_logo.svg.png" group-title="KIDS (Free)",Disney [HINDI]
 http://otv.ftpbd.net/streams/122/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012014/logo_disney_junior.png?itok=4qSQzM4I" group-title="KIDS (Free)",Disney Jr.
+http://anytv.live:8080/saiful/saiful/368
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Hungama_TV.png/revision/latest/scale-to-width-down/340?cb=20111015213235" group-title="KIDS (Free)",Disney [HINDI]
+http://anytv.live:8080/saiful/saiful/372
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="KIDS (Free)",BBC Cbeebies
 http://51.52.156.22:8888/http/003
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lcj7mWi.jpg" group-title="KIDS (Free)",ANIMAX
@@ -674,12 +682,10 @@ https://ott.bingebd.com:443/live/ngrp:sony_ten_2_all/playlist.m3u8
 https://ott.bingebd.com:443/live/ngrp:sony_ten_3_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="SPORTS (Free)",Sony Six HD
 https://ott.bingebd.com:443/live/ngrp:sony_six_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS (Free)",Star Sports 1 HD (1)
-http://103.102.136.106:8080/cmcltv/livesports.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS (Free)",Star Sports 1 HD (2)
-http://45.249.187.238:8081/hls/new1.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS (Free)", Star Sports 1
-http://103.102.136.106:8080/cmcltv/livesports-2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS (Free)",Star Sports 1 HD
+http://otv.ftpbd.net/streams/104/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS (Free)",Star Sports 1
+http://anytv.live:8080/saiful/saiful/347
 #EXTINF: -1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS (Free)", Star Sports 1 Hindi HD
 http://103.102.136.106:8080/cmcltv/tcm_StarSports1cm.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS (Free)",Star Sports 2 HD (1)
@@ -687,11 +693,11 @@ http://103.70.140.27:8080/hls/cm_sports02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS (Free)",Star Sports 2 HD (2)
 http://otv.ftpbd.net:80/streams/116/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS (Free)",Star Sports Select 1 HD (1)
-http://45.249.187.238:8081/hls/new2.m3u8
+http://otv.ftpbd.net/streams/113/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS (Free)",Star Sports Select 1 HD (2)
 http://103.214.202.218:8081/live/select2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS (Free)",Star Sports Select 2 HD (1)
-http://103.214.202.218:8081/live/select2/chunks.m3u8e
+http://103.214.202.218:8081/live/select2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS (Free)",Star Sports Select 2 HD (2)
 http://otv.ftpbd.net:80/streams/114/index.m3u8
 #EXTINF:-1 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png" group-title="SPORTS (Free)",Ten Sports
@@ -1070,6 +1076,140 @@ http://78.129.222.62/stream.mp3?ipport=78.129.222.62_33116
 http://78.129.222.62/stream.mp3?ipport=78.129.222.62_33116
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Ujala Radio
 http://stream2.ujala.nl/stream/2/listen.mp3
+#EXTINF:-1 tvg-id="" tvg-name="BanglaVision" tvg-logo="https://www.anytv.live/anytv/banglavision.png" group-title="ANYTV LIVE",Bangla Vision
+http://anytv.live:8080/saiful/saiful/307
+#EXTINF:-1 tvg-id="" tvg-name="SOMOYTV" tvg-logo="https://www.anytv.live/anytv/somoy.png" group-title="ANYTV LIVE",SOMOY TV
+http://anytv.live:8080/saiful/saiful/334
+#EXTINF:-1 tvg-id="" tvg-name="ATNNEWS" tvg-logo="https://www.anytv.live/anytv/atnnews.png" group-title="ANYTV LIVE",ATN NEWS
+http://anytv.live:8080/saiful/saiful/302
+#EXTINF:-1 tvg-id="" tvg-name="JamunaTelevisio" tvg-logo="https://www.anytv.live/anytv/jamuna.png" group-title="ANYTV LIVE",Jamuna Television
+http://anytv.live:8080/saiful/saiful/326
+#EXTINF:-1 tvg-id="" tvg-name="INDEPENDENT" tvg-logo="https://www.anytv.live/anytv/independenttv.png" group-title="ANYTV LIVE",INDEPENDENT TV
+http://anytv.live:8080/saiful/saiful/325
+#EXTINF:-1 tvg-id="" tvg-name="BJOYTV" tvg-logo="" group-title="ANYTV LIVE",BIJOY TV
+http://anytv.live:8080/saiful/saiful/359
+#EXTINF:-1 tvg-id="" tvg-name="MohonaTV" tvg-logo="https://www.anytv.live/anytv/mohona.png" group-title="ANYTV LIVE",Mohona TV
+http://anytv.live:8080/saiful/saiful/331
+#EXTINF:-1 tvg-id="" tvg-name="AKASH8" tvg-logo="" group-title="ANYTV LIVE",AKASH AATH
+http://anytv.live:8080/saiful/saiful/361
+#EXTINF:-1 tvg-id="" tvg-name="ANDFLIX" tvg-logo="https://www.anytv.live/anytv/flix.png" group-title="ANYTV LIVE",& FLIX
+http://anytv.live:8080/saiful/saiful/296
+#EXTINF:-1 tvg-id="" tvg-name="HBOHD" tvg-logo="https://www.anytv.live/anytv/hbo.png" group-title="ANYTV LIVE",HBO
+http://anytv.live:8080/saiful/saiful/286
+#EXTINF:-1 tvg-id="" tvg-name="ABZY MOVIE" tvg-logo="" group-title="ANYTV LIVE",ABZY MOVIES
+http://anytv.live:8080/saiful/saiful/367
+#EXTINF:-1 tvg-id="" tvg-name="&MASTI" tvg-logo="" group-title="ANYTV LIVE",MASTI
+http://anytv.live:8080/saiful/saiful/370
+#EXTINF:-1 tvg-id="" tvg-name="AAMAR-CHINEMA" tvg-logo="" group-title="ANYTV LIVE",AAMAR CINEMA
+http://anytv.live:8080/saiful/saiful/373
+#EXTINF:-1 tvg-id="" tvg-name="9OXM" tvg-logo="" group-title="ANYTV LIVE",9XM
+http://anytv.live:8080/saiful/saiful/371
+#EXTINF:-1 tvg-id="" tvg-name="hbo hits" tvg-logo="" group-title="ANYTV LIVE",HBO hits
+http://anytv.live:8080/saiful/saiful/362
+#EXTINF:-1 tvg-id="" tvg-name="BBC-WORLD" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos.fandom.com%2Fwiki%2FBBC_World_News_(TV_series)&psig=AOvVaw1Gue9gfVQpZLfMN7JBZIf5&ust=1596996311828000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKi4_ISZjOsCFQAAAAAdAAAAABAw" group-title="ANYTV LIVE",BBC WORLD
+http://anytv.live:8080/saiful/saiful/385
+#EXTINF:-1 tvg-id="" tvg-name="ColorsBanglaHD" tvg-logo="https://www.anytv.live/anytv/colorsbangla.png" group-title="ANYTV LIVE",Colors Bangla HD
+http://anytv.live:8080/saiful/saiful/282
+#EXTINF:-1 tvg-id="" tvg-name="ColorsHD" tvg-logo="https://www.anytv.live/anytv/colors.png" group-title="ANYTV LIVE",Colors HD
+http://anytv.live:8080/saiful/saiful/289
+#EXTINF:-1 tvg-id="" tvg-name="DHOOM" tvg-logo="https://www.anytv.live/anytv/dhoom.jpg" group-title="ANYTV LIVE",DHOOM
+http://anytv.live:8080/saiful/saiful/360
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIVE" tvg-logo="https://www.anytv.live/anytv/foxlife.png" group-title="ANYTV LIVE",FOX LIVE
+http://anytv.live:8080/saiful/saiful/369
+#EXTINF:-1 tvg-id="" tvg-name="FOXACTION-MOVIE" tvg-logo="" group-title="ANYTV LIVE",FOX ACTION MOVIES
+http://anytv.live:8080/saiful/saiful/380
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://www.anytv.live/anytv/hbo.png" group-title="ANYTV LIVE",HBO
+http://anytv.live:8080/saiful/saiful/382
+#EXTINF:-1 tvg-id="" tvg-name="HDSTARJALSHA" tvg-logo="https://www.anytv.live/anytv/starjalsha.png" group-title="ANYTV LIVE",STAR JALSHA
+http://anytv.live:8080/saiful/saiful/381
+#EXTINF:-1 tvg-id="" tvg-name="HITS-MOVIE" tvg-logo="" group-title="ANYTV LIVE",HITS MOVIES
+http://anytv.live:8080/saiful/saiful/366
+#EXTINF:-1 tvg-id="" tvg-name="HOUSEFUUL-MOVIE" tvg-logo="" group-title="ANYTV LIVE",HOUSEFUU MOVIES
+http://anytv.live:8080/saiful/saiful/358
+#EXTINF:-1 tvg-id="" tvg-name="HUNGAMA" tvg-logo="" group-title="ANYTV LIVE",HUNGAMA
+http://anytv.live:8080/saiful/saiful/372
+#EXTINF:-1 tvg-id="" tvg-name="JalshaMoviesHD" tvg-logo="https://www.anytv.live/anytv/jalshamovies.png" group-title="ANYTV LIVE",Jalsha Movies
+http://anytv.live:8080/saiful/saiful/283
+#EXTINF:-1 tvg-id="" tvg-name="DISNEP JUNIER" tvg-logo="" group-title="ANYTV LIVE",DISNEY JUNIER
+http://anytv.live:8080/saiful/saiful/368
+#EXTINF:-1 tvg-id="" tvg-name="MOVIE-PLUS" tvg-logo="" group-title="ANYTV LIVE",MOVIE-PLUS
+http://anytv.live:8080/saiful/saiful/357
+#EXTINF:-1 tvg-id="" tvg-name="Ganbangla" tvg-logo="https://www.anytv.live/anytv/GB.png" group-title="ANYTV LIVE",Gaan Bangla
+http://anytv.live:8080/saiful/saiful/278
+#EXTINF:-1 tvg-id="" tvg-name="NICK" tvg-logo="https://www.anytv.live/anytv/nickk.png" group-title="ANYTV LIVE",NICK
+http://anytv.live:8080/saiful/saiful/332
+#EXTINF:-1 tvg-id="" tvg-name="PTVSPORS" tvg-logo="https://www.anytv.live/anytv/ptv.png" group-title="ANYTV LIVE",PTV SPORTS
+http://anytv.live:8080/saiful/saiful/365
+#EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-logo="" group-title="ANYTV LIVE",SONY
+http://anytv.live:8080/saiful/saiful/337
+#EXTINF:-1 tvg-id="" tvg-name="SONY-NICK" tvg-logo="https://www.anytv.live/anytv/nickk.png" group-title="ANYTV LIVE",SONY NICK
+http://anytv.live:8080/saiful/saiful/383
+#EXTINF:-1 tvg-id="" tvg-name="SONYAATH" tvg-logo="https://www.anytv.live/anytv/aath.png" group-title="ANYTV LIVE",SONY AATH
+http://anytv.live:8080/saiful/saiful/338
+#EXTINF:-1 tvg-id="" tvg-name="SonyHD" tvg-logo="" group-title="ANYTV LIVE",Sony HD
+http://anytv.live:8080/saiful/saiful/290
+#EXTINF:-1 tvg-id="" tvg-name="SONYMAX" tvg-logo="https://www.anytv.live/anytv/sonymax.png" group-title="ANYTV LIVE",SONY MAX
+http://anytv.live:8080/saiful/saiful/340
+#EXTINF:-1 tvg-id="" tvg-name="STARBHARAT" tvg-logo="https://www.anytv.live/anytv/starbharat.png" group-title="ANYTV LIVE",STAR BHARAT
+http://anytv.live:8080/saiful/saiful/344
+#EXTINF:-1 tvg-id="" tvg-name="Starjalsha" tvg-logo="https://www.anytv.live/anytv/starjalsha.png" group-title="ANYTV LIVE",Star jalsha
+http://anytv.live:8080/saiful/saiful/281
+#EXTINF:-1 tvg-id="" tvg-name="STARMOVIES-HD" tvg-logo="https://www.anytv.live/anytv/starmovies.png" group-title="ANYTV LIVE",STAR MOVIES
+http://anytv.live:8080/saiful/saiful/345
+#EXTINF:-1 tvg-id="" tvg-name="WB" tvg-logo="" group-title="ANYTV LIVE",WB
+http://anytv.live:8080/saiful/saiful/356
+#EXTINF:-1 tvg-id="" tvg-name="StarMoviesHD" tvg-logo="https://www.anytv.live/anytv/starmovies.png" group-title="ANYTV LIVE",Star Movies HD
+http://anytv.live:8080/saiful/saiful/287
+#EXTINF:-1 tvg-id="" tvg-name="STARPLUS" tvg-logo="https://www.anytv.live/anytv/starplus.png" group-title="ANYTV LIVE",STAR PLUS
+http://anytv.live:8080/saiful/saiful/346
+#EXTINF:-1 tvg-id="" tvg-name="STARSP-2" tvg-logo="https://www.anytv.live/anytv/starsp2.png" group-title="ANYTV LIVE",STAR SPORTS 2
+http://anytv.live:8080/saiful/saiful/348
+#EXTINF:-1 tvg-id="" tvg-name="SONYSAB" tvg-logo="https://www.anytv.live/anytv/sonysab.png" group-title="ANYTV LIVE",SONY SAB
+http://anytv.live:8080/saiful/saiful/342
+#EXTINF:-1 tvg-id="" tvg-name="vip" tvg-logo="" group-title="ANYTV LIVE",VIP
+http://anytv.live:8080/saiful/saiful/378
+#EXTINF:-1 tvg-id="" tvg-name="CCMMOVIES" tvg-logo="" group-title="ANYTV LIVE",CCM MOVIES
+http://anytv.live:8080/saiful/saiful/310
+#EXTINF:-1 tvg-id="colorshd.in" tvg-name="COLORS TV HD" tvg-logo="http://hitectv.live/anytv/colors.png" group-title="ANYTV LIVE",COLORS TV HD
+http://anytv.live:8080/saiful/saiful/41
+#EXTINF:-1 tvg-id="" tvg-name="WOWCHINEMA" tvg-logo="" group-title="ANYTV LIVE",WOW CINEMA
+http://anytv.live:8080/saiful/saiful/375
+#EXTINF:-1 tvg-id="" tvg-name="ZEBANGLA-CENEMA" tvg-logo="https://www.anytv.live/anytv/zeebanglacine.png" group-title="ANYTV LIVE",ZEE BANGLA CINEMA
+http://anytv.live:8080/saiful/saiful/377
+#EXTINF:-1 tvg-id="" tvg-name="ZEEACTION" tvg-logo="https://www.anytv.live/anytv/zeeaction.png" group-title="ANYTV LIVE",ZEE ACTION
+http://anytv.live:8080/saiful/saiful/354
+#EXTINF:-1 tvg-id="" tvg-name="ZEEBANGLA" tvg-logo="https://www.anytv.live/anytv/zeebangla.png" group-title="ANYTV LIVE",ZEE BANGLA
+http://anytv.live:8080/saiful/saiful/352
+#EXTINF:-1 tvg-id="" tvg-name="Zeebolly" tvg-logo="" group-title="ANYTV LIVE",ZEE Bollywood
+http://anytv.live:8080/saiful/saiful/280
+#EXTINF:-1 tvg-id="" tvg-name="ZEEBOLLYWOOD" tvg-logo="" group-title="ANYTV LIVE",ZEE BOLLYWOOD
+http://anytv.live:8080/saiful/saiful/351
+#EXTINF:-1 tvg-id="" tvg-name="ZEECAFE" tvg-logo="https://www.anytv.live/anytv/zeecafe.png" group-title="ANYTV LIVE",ZEE CAFE
+http://anytv.live:8080/saiful/saiful/350
+#EXTINF:-1 tvg-id="" tvg-name="ZEETV" tvg-logo="https://www.anytv.live/anytv/zeetvhd.png" group-title="ANYTV LIVE",ZEE TV
+http://anytv.live:8080/saiful/saiful/349
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://www.anytv.live/anytv/mtv.png" group-title="ANYTV LIVE",MTV
+http://anytv.live:8080/saiful/saiful/379
+#EXTINF:-1 tvg-id="" tvg-name="THT-MUSIC" tvg-logo="" group-title="ANYTV LIVE",THT MUSIC
+http://anytv.live:8080/saiful/saiful/376
+#EXTINF:-1 tvg-id="" tvg-name="BEEAA" tvg-logo="" group-title="ANYTV LIVE",BEE AA
+http://anytv.live:8080/saiful/saiful/363
+#EXTINF:-1 tvg-id="" tvg-name="STARSP-1" tvg-logo="https://www.anytv.live/anytv/starsp1.png" group-title="ANYTV LIVE",STAR SPORTS 1
+http://anytv.live:8080/saiful/saiful/347
+#EXTINF:-1 tvg-id="" tvg-name="Channel24" tvg-logo="" group-title="ANYTV LIVE",Channel 24
+http://anytv.live:8080/saiful/saiful/312
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY-HD" tvg-logo="" group-title="ANYTV LIVE",HISTORY HD
+http://anytv.live:8080/saiful/saiful/321
+#EXTINF:-1 tvg-id="" tvg-name="FILM-WORLD" tvg-logo="" group-title="ANYTV LIVE",FILM WORLD
+http://anytv.live:8080/saiful/saiful/364
+#EXTINF:-1 tvg-id="" tvg-name="15th August" tvg-logo="" group-title="ANYTV LIVE",TEST
+http://anytv.live:8080/saiful/saiful/391
+#EXTINF:-1 tvg-id="" tvg-name="uiu" tvg-logo="" group-title="ANYTV LIVE",TEST 2
+http://anytv.live:8080/saiful/saiful/392
+#EXTINF:-1 tvg-id="" tvg-name="B4U" tvg-logo="ASDSAD" group-title="ANYTV LIVE",B4U
+http://anytv.live:8080/saiful/saiful/394
+#EXTINF:-1 tvg-id="" tvg-name="SPYIK" tvg-logo="SPYIK" group-title="ANYTV LIVE",SPIKE
+http://anytv.live:8080/saiful/saiful/395
 #EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_Gazi TV
 http://otv.ftpbd.net/streams/108/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_Channel 9
