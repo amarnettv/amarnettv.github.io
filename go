@@ -1,28 +1,28 @@
 #EXTM3U 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="Ungrouped", AMARNETTV:INTERNET TV FOR ALL
-https://m3u-editor.com/serve/amarnettv/116860945
+https://m3u-editor.com/serve/amarnettv/116860945.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="BANGLA (Free)", ## BANGLA ENTERTAINMENT ##
-https://m3u-editor.com/serve/amarnettv/116860946
+https://m3u-editor.com/serve/amarnettv/116860946.m3u8
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/40yvi62wy59gu3r/sangsad_tv_bd.png" group-title="BANGLA (Free)", Sangsad TV [BD]
-https://m3u-editor.com/serve/amarnettv/116860947
+https://m3u-editor.com/serve/amarnettv/116860947.m3u8
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/ynmbf1f9g2pu3y5/btv_world.png" group-title="BANGLA (Free)", BTV WORLD [BD]
-https://m3u-editor.com/serve/amarnettv/116860948
+https://m3u-editor.com/serve/amarnettv/116860948.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ZJra7BS.jpg" group-title="BANGLA (Free)", BTV [CTG]
-https://m3u-editor.com/serve/amarnettv/116860949
+https://m3u-editor.com/serve/amarnettv/116860949.m3u8
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/a17x59hbhvzf9it/atn_bangla.png" group-title="BANGLA (Free)", ATN BANGLA [BD]
-https://m3u-editor.com/serve/amarnettv/116860950
+https://m3u-editor.com/serve/amarnettv/116860950.m3u8
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/ul1hoiovemyyhp8/channel_i.png" group-title="BANGLA (Free)", CHANNEL I HD [BD]
-https://m3u-editor.com/serve/amarnettv/116860951
+https://m3u-editor.com/serve/amarnettv/116860951.m3u8
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/7ftip0g8mwytt2r/ekushey_tv.png" group-title="BANGLA (Free)", EKUSHEY TV [BD]
-https://m3u-editor.com/serve/amarnettv/116860952
+https://m3u-editor.com/serve/amarnettv/116860952.m3u8
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/2jqhua6a0wrtgz5/ntv_bd.png" group-title="BANGLA (Free)", NTV [BD]
-https://m3u-editor.com/serve/amarnettv/116860953
+https://m3u-editor.com/serve/amarnettv/116860953.m3u8
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/uordrcep05gvxr3/rtv_bd.png" group-title="BANGLA (Free)", RTV HD [BD]
-https://m3u-editor.com/serve/amarnettv/116860954
+https://m3u-editor.com/serve/amarnettv/116860954.m3u8
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png" group-title="BANGLA (Free)", BOISHAKHI TV [BD]
-https://m3u-editor.com/serve/amarnettv/116860955
+https://m3u-editor.com/serve/amarnettv/116860955.m3u8
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/qx0fxyv7rdx2uwi/bangla_vision.png" group-title="BANGLA (Free)", BANGLA VISION [BD]
-https://m3u-editor.com/serve/amarnettv/116860956
+https://m3u-editor.com/serve/amarnettv/116860956.m3u8
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/61c0osd7bkne5cd/desh_tv.png" group-title="BANGLA (Free)", DESH TV [BD]
 https://m3u-editor.com/serve/amarnettv/116860957
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png" group-title="BANGLA (Free)", MY TV HD [BD]
