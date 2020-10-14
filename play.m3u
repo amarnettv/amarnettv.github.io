@@ -34,7 +34,7 @@ https://ott.bingebd.com:443/live/ngrp:maasranga_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="BANGLA (Free)",CHANNEL 9 HD [BD]
 https://ott.bingebd.com:443/live/ngrp:channel_9_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="BANGLA (Free)",GAZI TV HD [BD]
-https://ott.bingebd.com:443/live/ngrp:gazi_tv_all/playlist.m3u8
+http://103.132.180.245:8080/2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/150px-Asian_TV_Logo.svg.png" group-title="BANGLA (Free)",ASIAN TV HD [BD]
 https://ott.bingebd.com:443/live/ngrp:asian_tv_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="BANGLA (Free)",SA TV HD [BD]
@@ -687,7 +687,8 @@ http://otv.ftpbd.net/streams/104/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS (Free)",Star Sports 1
 http://anytv.live:8080/saiful/saiful/347
 #EXTINF: -1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS (Free)", Star Sports 1 Hindi HD
-http://103.102.136.106:8080/cmcltv/tcm_StarSports1cm.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+http://103.211.185.98:8082/25/index.m3u8?token=8fff27c1d53a1c7faeb59e3f9d90c424cda6e9c1-81ee28fc744d9956c6ed7ddabe6b7da3-1602694489-1602683689&remote=103.120.194.25
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS (Free)",Star Sports 2 HD (1)
 http://103.70.140.27:8080/hls/cm_sports02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS (Free)",Star Sports 2 HD (2)
@@ -889,7 +890,8 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1602695936/ei/o
 #EXTINF:-1 tvg-logo="https://cdn.siasat.com/wp-content/uploads/2020/02/IPL-2020-1.jpg" group-title="SPORTS LIVE",IPL Live 1
 http://103.132.180.245:8080/2/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.siasat.com/wp-content/uploads/2020/02/IPL-2020-1.jpg" group-title="SPORTS LIVE",IPL Live 2
-http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+http://103.211.185.98:8082/25/index.m3u8?token=8fff27c1d53a1c7faeb59e3f9d90c424cda6e9c1-81ee28fc744d9956c6ed7ddabe6b7da3-1602694489-1602683689&remote=103.120.194.25
 #EXTINF:-1 tvg-logo="https://cdn.siasat.com/wp-content/uploads/2020/02/IPL-2020-1.jpg" group-title="SPORTS LIVE",IPL Live 3
 http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.siasat.com/wp-content/uploads/2020/02/IPL-2020-1.jpg" group-title="SPORTS LIVE",IPL Live 4
