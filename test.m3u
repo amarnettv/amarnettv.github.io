@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://cdn.siasat.com/wp-content/uploads/2020/02/IPL-2020-1.jpg" group-title="IPL LIVE",TEST 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+http://103.211.185.98:8082/25/index.m3u8?token=8fff27c1d53a1c7faeb59e3f9d90c424cda6e9c1-81ee28fc744d9956c6ed7ddabe6b7da3-1602694489-1602683689&remote=103.120.194.25
+#EXTINF:-1 tvg-logo="https://cdn.siasat.com/wp-content/uploads/2020/02/IPL-2020-1.jpg" group-title="IPL LIVE",TEST 2
+http://103.211.185.98:8082/27/index.m3u8?token=4dc1a8e56a59983f0b64ea8eae5132a48a9b6379-70aa1a6cf2c36061c39bdf5a6f8d6012-1602694780-1602683980&remote=103.120.194.25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
