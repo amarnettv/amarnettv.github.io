@@ -43,7 +43,7 @@ https://ott.bingebd.com:443/live/ngrp:sa_tv_all/playlist.m3u8
 https://ott.bingebd.com:443/live/ngrp:deepto_tv_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Bangla_Tv_Logo.jpg/220px-Bangla_Tv_Logo.jpg" group-title="BANGLA (Free)",BANGLA TV HD [BD]
 https://ott.bingebd.com:443/live/ngrp:bangla_tv_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/BW.jpg" group-title="BANGLA (Free)",NAGORIK TV HD [BD]
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/NT.jpg" group-title="BANGLA (Free)",NAGORIK TV HD [BD]
 https://ott.bingebd.com:443/live/ngrp:nagorik_tv_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/120px-ATN_News_Logo_3.GIF" group-title="BANGLA (Free)",ATN NEWS [BD]
 https://ott.bingebd.com:443/live/ngrp:atn_news_all/playlist.m3u8
@@ -709,11 +709,11 @@ https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://apps.beinsports.com/dev/au/images/XTRA.png" group-title="SPORTS (Free)",BEIN SPORT EXTRA
 https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxsports1.png" group-title="SPORTS (Free)",FOX SPORT 1
-https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports2.png" group-title="SPORTS (Free)",FOX SPORT 2
-https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports3.png" group-title="SPORTS (Free)",FOX SPORT 3
-https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
+https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kxem8ae.jpg" group-title="SPORTS (Free)",Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="SPORTS (Free)",Red Bull TV
