@@ -645,7 +645,8 @@ https://ott.bingebd.com:443/live/ngrp:pogo_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSfq48KvLWpPeT7HitixQ08F8487HskZv86vw&usqp=CAU" group-title="KIDS (Free)",NICK HD
 https://ott.bingebd.com:443/live/ngrp:nick_hd_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="KIDS (Free)",NICK (Bangla)
-https://ott.bingebd.com:443/live/ngrp:nickelodeon_all/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+http://103.211.185.98:8082/55/index.m3u8?token=5e4e421077f7b7578955d5de6e6a20cfeb6fda81-5d066e262d3bdadc8799c56f69b74a1e-1602702441-1602691641&remote=103.67.158.134
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRw5Ywd0kn1Yw7hokd_rVx6XbAiWM9cbXf4tUWccAx3cel5eq5A&usqp=CAU" group-title="KIDS (Free)",Nick Jr
 https://ott.bingebd.com:443/live/ngrp:nick_jr_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/150px-Nickelodeon_Sonic_logo.png" group-title="KIDS (Free)",Sonic (Bangla)
@@ -680,23 +681,28 @@ https://ott.bingebd.com:443/live/ngrp:sony_ten_2_all/playlist.m3u8
 https://ott.bingebd.com:443/live/ngrp:sony_ten_3_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="SPORTS (Free)",Sony Six HD
 https://ott.bingebd.com:443/live/ngrp:sony_six_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS (Free)",Star Sports 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS (Free)",Star Sports 1 HD (1)
 http://otv.ftpbd.net/streams/104/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS (Free)", Star Sports 1 HD (2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+http://103.211.185.98:8082/201/index.m3u8?token=ecae2f06196458460d57cdff8f832e81787f7add-2d9a9fdf6f4fab165476cdd9ec85647e-1602702718-1602691918&remote=103.67.158.134
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS (Free)",Star Sports 1
 http://anytv.live:8080/saiful/saiful/347
 #EXTINF: -1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS (Free)", Star Sports 1 Hindi HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
 http://103.211.185.98:8082/25/index.m3u8?token=8fff27c1d53a1c7faeb59e3f9d90c424cda6e9c1-81ee28fc744d9956c6ed7ddabe6b7da3-1602694489-1602683689&remote=103.120.194.25
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS (Free)",Star Sports 2 HD (1)
-http://103.70.140.27:8080/hls/cm_sports02.m3u8
+http://anytv.live:8080/saiful/saiful/348
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS (Free)",Star Sports 2 HD (2)
 http://otv.ftpbd.net:80/streams/116/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS (Free)",Star Sports Select 1 HD (1)
 http://otv.ftpbd.net/streams/113/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS (Free)",Star Sports Select 1 HD (2)
-http://103.214.202.218:8081/live/select2/chunks.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+http://103.211.185.98:8082/27/index.m3u8?token=4fb1628ed04073387f968ff2943420c0cf43f4c8-bdbf4757433b2e7d668015ef1fa0fc74-1602702874-1602692074&remote=103.67.158.134
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS (Free)",Star Sports Select 2 HD (1)
-http://103.214.202.218:8081/live/select2/chunks.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+http://103.211.185.98:8082/28/index.m3u8?token=05dccde016497a8742bc5e7e4754b31322814f64-08c05fb6ba280c5c2fc4363b4f273489-1602702937-1602692137&remote=103.67.158.134
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS (Free)",Star Sports Select 2 HD (2)
 http://otv.ftpbd.net:80/streams/114/index.m3u8
 #EXTINF:-1 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png" group-title="SPORTS (Free)",Ten Sports
