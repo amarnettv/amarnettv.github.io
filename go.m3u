@@ -3,7 +3,7 @@
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/amarnettvFree.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="BANGLA ENT.",## BANGLA ENTERTAINMENT ##
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/amarnettvFree.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="BANGLA ENT.",BTV World
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/BW.jpg" group-title="BANGLA ENT.",BTV World
 https://ott.bingebd.com:443/live/ngrp:btv_world_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="BANGLA ENT.",Sangsad TV
 https://ott.bingebd.com:443/live/ngrp:sangsad_tv_all/playlist.m3u8
@@ -25,11 +25,9 @@ https://ott.bingebd.com:443/live/ngrp:maasranga_all/playlist.m3u8
 https://ott.bingebd.com:443/live/ngrp:channel_9_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Banglavision.PNG" group-title="BANGLA ENT.",Bangla Vision
 https://ott.bingebd.com:443/live/ngrp:bangla_vision_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/3/39/দুরন্ত_টিভি_লোগো.jpg/170px-দুরন্ত_টিভি_লোগো.jpggroup-title="KIDZ",Duronto TV
-https://ott.bingebd.com:443/live/ngrp:duronto_tv_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTOt3yWAtiThOoaXP24ItdKCDw3z7N8N2Ad84-t4W35b7tpvpVl&usqp=CAU" group-title="BANGLA ENT.",Bijoy TV
+#EXTINF:-1 tvg-logo="http://bijoy.tv/wp-content/uploads/2020/08/logo.png" group-title="BANGLA ENT.",Bijoy TV
 https://ott.bingebd.com:443/live/ngrp:bijoy_tv_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/be/দীপ্ত_টিভি_লোগো_২.jpg" group-title="BANGLA ENT.",Deepto TV HD
+#EXTINF:-1 tvg-logo="https://www.deepto.tv/sites/default/files/deepto_tv_logo%20Edit.png" group-title="BANGLA ENT.",Deepto TV HD
 https://ott.bingebd.com:443/live/ngrp:deepto_tv_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.chonnochara.com/wp-content/uploads/2017/05/Asian-TV-Logo-768x876.jpg" group-title="BANGLA ENT.",Asian TV
 https://ott.bingebd.com:443/live/ngrp:asian_tv_all/playlist.m3u8
@@ -43,7 +41,7 @@ https://ott.bingebd.com:443/live/ngrp:bangla_tv_all/playlist.m3u8
 https://ott.bingebd.com:443/live/ngrp:ott_desh_tv_mobile/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="BANGLA ENT.",SATV
 https://ott.bingebd.com:443/live/ngrp:sa_tv_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/নাগরিক_টিভি.svg/300px-নাগরিক_টিভি.svg.png" group-title="BANGLA ENT.",Nagorik TV
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/NT.jpg" group-title="BANGLA ENT.",Nagorik TV
 https://ott.bingebd.com:443/live/ngrp:nagorik_tv_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwpSPqiTQxA4tUFtfFSakY-i0NtIFevlyKRrWNc2niWcT1qG5K&usqp=CAU" group-title="BANGLA ENT.",Mohona TV
 https://ott.bingebd.com:443/live/ngrp:mohona_tv_all/playlist.m3u8
@@ -61,21 +59,19 @@ https://ott.bingebd.com:443/live/ngrp:independent_tv_all/playlist.m3u8
 https://ott.bingebd.com:443/live/ngrp:dbc_news_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.assignmentpoint.com/wp-content/uploads/2016/04/independent-television.jpg" group-title="BANGLA NEWS",Independent TV
 https://ott.bingebd.com:443/live/ngrp:independent_tv_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/সময়_টিভির_লোগো.svg/360px-সময়_টিভির_লোগো.svg.png" group-title="BANGLA NEWS",Somoy News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" group-title="BANGLA NEWS",Somoy News
 https://ott.bingebd.com:443/live/ngrp:somoy_news_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/250px-JamunaTV_logo.jpg" group-title="BANGLA NEWS",Jamuna TV
 https://ott.bingebd.com:443/live/ngrp:jamuna_tv_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1mFDQlU_tELMGmcMJefBlNHaCM-yZlV__nH39fEm4ftZ_alp4&usqp=CAU" group-title="BANGLA NEWS",Channel 24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/120px-Channel24logo.svg.png" group-title="BANGLA NEWS",Channel 24
 https://ott.bingebd.com:443/live/ngrp:channel_24_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Gaan_Bangla.png/220px-Gaan_Bangla.png" group-title="BANGLA ENT.",Gaan Bangla
-https://ott.bingebd.com:443/live/ngrp:gaan_bangla_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxiWBdL7Z_d89XQbHY6jO1cVwx2ZnRQG2JAlcfi_tzjcAkr2PL&usqp=CAU" group-title="BANGLA ENT.",Star Jalsha HD
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/SJHD.jpg" group-title="BANGLA ENT.",Star Jalsha HD
 https://ott.bingebd.com:443/live/ngrp:star_jalsha_hd_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiUu8kWuQLwaVp3Fbis5Exy8xPo1HVX2xA_28UcPHY34E4ZKBN&usqp=CAU" group-title="BANGLA ENT.",Zee Bangla HD
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ZBHD.jpg" group-title="BANGLA ENT.",Zee Bangla HD
 https://ott.bingebd.com:443/live/ngrp:zee_bangla_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTvDWzYRd2mLwaTDUaTaJk0tqetpdwxaX1cXftZR3QHsuC2WsW9&usqp=CAU" group-title="BANGLA ENT.",Sony Aath
 https://ott.bingebd.com:443/live/ngrp:sony_aath_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="BANGLA ENT.",Colors Bangla HD
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/CBHD.jpg" group-title="BANGLA ENT.",Colors Bangla HD
 https://ott.bingebd.com:443/live/ngrp:colors_bangla_hd_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="BANGLA ENT.",Colors Bangla
 https://ott.bingebd.com:443/live/ngrp:colors_bangla_all/playlist.m3u8
@@ -85,6 +81,8 @@ https://ott.bingebd.com:443/live/ngrp:dillagi_all/playlist.m3u8
 https://ott.bingebd.com:443/live/ngrp:ruposhi_bangla_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5C-fDaaF5RdvNdQcfBQdhCjZ5WBeLWGEn97C1ZTNFKntoh7Hs&usqp=CAU" group-title="BANGLA ENT.",Jalsha Movies
 https://ott.bingebd.com:443/live/ngrp:jalsha_movies_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="BANGLA ENT.",Gaan Bangla
+https://ott.bingebd.com:443/live/ngrp:gaan_bangla_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDk5QPMPqAT6lEMJxELAxP0L4-OVMR7qoAJq2676U4KAOHhYO1&usqp=CAU" group-title="BANGLA ENT.",Sangeet Bangla
 https://ott.bingebd.com:443/live/ngrp:sangeet_bangla_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTzEQ9heTuhfYJcQAMkTkhi3-vFnFAN2QWDXyLlMGmyJCqafMF&usqp=CAU" group-title="BANGLA ENT.",Dhoom Music
@@ -171,7 +169,7 @@ https://ott.bingebd.com:443/live/ngrp:sony_ten_2_all/playlist.m3u8
 https://ott.bingebd.com:443/live/ngrp:sony_ten_3_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.pnggroup-title="SPORTS",Sony Six HD
 https://ott.bingebd.com:443/live/ngrp:sony_six_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="INFOTAINMENT (Free)",## INFOTAINMENT ##
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="INFOTAINMENT",## INFOTAINMENT ##
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/amarnettvFree.mp4
 #EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="INFOTAINMENT",Discovery HD (English)
 https://ott.bingebd.com:443/live/ngrp:discovery_all/playlist.m3u8
@@ -221,6 +219,8 @@ https://ott.bingebd.com:443/live/ngrp:mtv_beats_all/playlist.m3u8
 https://ott.bingebd.com:443/live/ngrp:vh1_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="KIDZ",## KIDS ENTERTAINMENT ##
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/amarnettvFree.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Duronto_TV_logo.jpg/170px-Duronto_TV_logo.jpg" group-title="KIDZ",DURONTO TV [BD]
+https://ott.bingebd.com:443/live/ngrp:duronto_tv_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAUgroup-title="KIDZ",Cartoon Network (Hindi)
 https://ott.bingebd.com:443/live/ngrp:cartoon_network_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUDc2IedgFG7neZP1gzxgPmfKwOWOjmDVblPsjdQZsN5NI7PLh&usqp=CAUgroup-title="KIDZ",Pogo
