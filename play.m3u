@@ -612,8 +612,6 @@ http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-english-hsslive
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDh/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="RELGIOUS (Free)",Iqraa
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dstreamone.com/madnitv/urdu/madniurdu.jpg" group-title="RELGIOUS (Free)",Madani TV Bangla
-http://45.249.187.238:8081/hls/new9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3KDVQiO.jpg" group-title="RELGIOUS (Free)",Al Dawah
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dawah-eu.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/atnislamictv.jpg" group-title="RELGIOUS (Free)",ATN Islamic TV
@@ -658,7 +656,7 @@ https://ott.bingebd.com:443/live/ngrp:sony_yay_all/playlist.m3u8
 http://otv.ftpbd.net/streams/122/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012014/logo_disney_junior.png?itok=4qSQzM4I" group-title="KIDS (Free)",Disney Jr.
 http://anytv.live:8080/saiful/saiful/368
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Hungama_TV.png/revision/latest/scale-to-width-down/340?cb=20111015213235" group-title="KIDS (Free)",Disney [HINDI]
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Hungama_TV.png/revision/latest/scale-to-width-down/340?cb=20111015213235" group-title="KIDS (Free)",Hungama [HINDI]
 http://anytv.live:8080/saiful/saiful/372
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="KIDS (Free)",BBC Cbeebies
 http://51.52.156.22:8888/http/003
@@ -883,7 +881,7 @@ https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
 https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s10227/images/logog.png" group-title="MUSIC (Free)",Radio Contact (BE)
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="SPORTS LIVE"",## SPORTS LIVE ##
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="SPORTS LIVE",## SPORTS LIVE ##
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/amarnettvFree.mp4
 #EXTINF:-1 tvg-logo="https://cdn.siasat.com/wp-content/uploads/2020/02/IPL-2020-1.jpg" group-title="SPORTS LIVE",Rabbitholebd HD
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1602695936/ei/oN6GX83FI9KnwgPg776QCQ/ip/202.5.56.39/id/a50gLTFzO60.5/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/gcr/bd/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIBE5pNxudV3amJ9oDQNMS-GL0SLnG0teNz6A93vO7rzAiEArGCls1xQBCaznShhfMb30Rk5XLV-owVObbv9TbHKD7U%3D/file/index.m3u8
@@ -893,7 +891,8 @@ http://103.132.180.245:8080/2/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
 http://103.211.185.98:8082/25/index.m3u8?token=8fff27c1d53a1c7faeb59e3f9d90c424cda6e9c1-81ee28fc744d9956c6ed7ddabe6b7da3-1602694489-1602683689&remote=103.120.194.25
 #EXTINF:-1 tvg-logo="https://cdn.siasat.com/wp-content/uploads/2020/02/IPL-2020-1.jpg" group-title="SPORTS LIVE",IPL Live 3
-http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
+http://103.211.185.98:8082/27/index.m3u8?token=4dc1a8e56a59983f0b64ea8eae5132a48a9b6379-70aa1a6cf2c36061c39bdf5a6f8d6012-1602694780-1602683980&remote=103.120.194.25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.siasat.com/wp-content/uploads/2020/02/IPL-2020-1.jpg" group-title="SPORTS LIVE",IPL Live 4
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/pksports.stream/live-orgin/pksports.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.siasat.com/wp-content/uploads/2020/02/IPL-2020-1.jpg" group-title="SPORTS LIVE",IPL Live 5
