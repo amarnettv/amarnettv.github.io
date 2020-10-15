@@ -87,8 +87,6 @@ http://anytv.live:8080/saiful/saiful/352
 http://ctgiptv.kitv.live:1935/live/test/test1/26.ts
 #EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ZBHD.jpg" group-title="BANGLA (Free)",Zee Bangla HD [IN] (2)
 http://global.thunderbd.com/34/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ZBHD.jpg" group-title="BANGLA (Free)",Zee Bangla HD [IN] (3)
-http://cv.khushitv.xyz/channels.php?c=zcinemahd&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Colors_Bangla_Logo.jpg" group-title="BANGLA (Free)",Colors Bangla SD [IN] 
 http://103.102.136.106:8080/cmcltv/tcm_colorsbanglacm.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/CBHD.jpg" group-title="BANGLA (Free)",Colors Bangla HD [IN]  (1)
@@ -284,20 +282,16 @@ http://global.thunderbd.com/74/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetv/list/386x386/09zeetvzeetv.png" group-title="INDIAN (Free)",Zee TV
 https://y5w8j4a9.ssl.hwcdn.net/apacsea/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png" group-title="INDIAN (Free)",Zee TV HD
-https://y5w8j4a9.ssl.hwcdn.net/zeetvhd/tracks-v1a1/index.m3u8
+http://dx3.gcdn.co/hindi-ZEETVHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png" group-title="INDIAN (Free)",Zee TV HD Canada
 https://y5w8j4a9.ssl.hwcdn.net/canadahd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png" group-title="INDIAN (Free)",Zee TV HD USA
 https://y5w8j4a9.ssl.hwcdn.net/ztvhdusa/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeanmol/list/386x386/09zeeanmolzeeanmol.png" group-title="INDIAN (Free)",Zee Anmol
-https://y5w8j4a9.ssl.hwcdn.net/zeeanmol/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/04/Zee-Smile-1.jpg" group-title="INDIAN (Free)",Zee Smile
-https://y5w8j4a9.ssl.hwcdn.net/smileusa/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-bigmagic_1786965389/list/386x386/09bigmagic_1786965389bigma.png" group-title="INDIAN (Free)",Big Magic
 https://y5w8j4a9.ssl.hwcdn.net/bigmagic/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="0-9-bigganga" tvg-logo="https://akamaividz.zee5.com/resources/0-9-bigganga/list/386x386/09biggangabigganga.png" group-title="INDIAN (Free)",Big Ganga
 https://y5w8j4a9.ssl.hwcdn.net/bigganga/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/vgwu01lpb7imo8l/Shemaroo.png" group-title="INDIAN (Free)",Shemaroo TV
+#EXTINF:-1 tvg-logo="https://www.shemaroome.com/assets/shemaroo_logo.svg" group-title="INDIAN (Free)",Shemaroo TV
 https://cdn.live.shemaroome.com/shemarootv/selshemarootv_1_701/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png" group-title="INDIAN (Free)",Dabaang
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
@@ -417,8 +411,8 @@ https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-209/list/386x386/09209xplorhd.png" group-title="IND. MOVIES (Free)",& Xplor HD
 https://y5w8j4a9.ssl.hwcdn.net/out/v1/525714a3beef4b6a8eac1ca96ffd8f88/index.m3u8
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold.png" group-title="IND. MOVIES (Free)",Star Gold
-##
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold.png" group-title="IND. MOVIES (Free)",Star Gold Select
+http://streamx.link:8080/NvxBXobrQj/fRPdh3UVHc/43612
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/Star_Gold_2.svg/revision/latest/scale-to-width-down/340?cb=20200210144548" group-title="IND. MOVIES (Free)",Star Gold 2
 http://45.249.187.238:8081/hls/tsl-3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="IND. MOVIES (Free)",SONY MAX HD
@@ -426,7 +420,7 @@ http://global.thunderbd.com/37/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="IND. MOVIES (Free)",SONY MAX (1)
 http://103.70.140.27:8080/hls/tcm_sonymax_cm_ip.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="IND. MOVIES (Free)",SONY MAX (2)
-https://load.airtel.tv/sonymax/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
+http://ov100.novacdn.xyz/nmbkxvrteswazx/9780854213567/6510?token=SRJYAhFRRlgVVFFXVQcDCARWX1AEBAVWUFEGUVNWVwcEBAJQWlhSBFNBHkYSRhRUUFhmW1UWXgIGAlJIEhYVB0BvWQdAA0ZQD1cGUlkQShNFXFRXEw5VAQoGUVwCUlRXHhJACgYbXgxCD15IQ1ceRVRHV1NdawBRRVoBARJZCBdeXBxBDVc7BlIOUwoFEFwTABcVEFhHFBYJXRcIXE9EAFtEQgIWXEZYWRZeCE0QBV5EW01ASBZeFnF3QEgSBh4WV15DCg1XRlgVF0FGTRAPQm5HXEFFRgFVXlYQRgpBVkAeEl0CGmYHDVkNVwcVWwlfQhcDEAAWSBZeXAwNRAwUPUJZVEFYVxEOWx4=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0piOCHd.png?1" group-title="IND. MOVIES (Free)",Sony MAX2 (1)
 http://ov100.novacdn.xyz/nmbkxvrteswazx/9780854213567/6525?token=SRJYAhFRRlgVUlQGA1RWU1JUAVEGA1IECgQBBgBVAwAFBVFWUQ8HAA5BHkYSRhRUUFhmW1UWXgIGAVdIEhYVB0BvWQdAA0ZQD1cGUlkQShNFXFRXEw5VAQoEU1EFVlJSHhJACgYbXgxCD15IQ1ceRVRHV1NdawBRRVoBARJZCBdeXBxBDVc7BlIOUwoFEFwTABcVEFhHFBYJXRcIXE9EAFtEQgIWXEZYWRZeCE0QBV5EW01ASBZeFnF3QEgSBh4WV15DCg1XRlgVF0FGTRAPQm5HXEFFRgFVXlYQRgpBVkAeEl0CGmYHDVkNVwcVWwlfQhcDEAAWSBZeXAwNRAwUPUJZVEFYVxEOWx4=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0piOCHd.png?1" group-title="IND. MOVIES (Free)",Sony MAX2 (2)
