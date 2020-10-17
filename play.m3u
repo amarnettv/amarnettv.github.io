@@ -244,9 +244,9 @@ http://dx3.gcdn.co/hindi-COLORSHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6d/ColorsRisthey.png/revision/latest/scale-to-width-down/340?cb=20190307235506" group-title="INDIAN (Free)",Colors Rishtey
 http://dx3.gcdn.co/hindi-RISHTEY/index.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png" group-title="INDIAN (Free)",& TV
-https://y5w8j4a9.ssl.hwcdn.net/andtvsd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png" group-title="INDIAN (Free)",& TV HD
 http://global.thunderbd.com/74/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png" group-title="INDIAN (Free)",& TV HD
+http://ov100.novacdn.xyz/nmbkxvrteswazx/9780854213567/6468?token=SRJYAhFRRlgVUlQGA1RWU1JUAVEGA1IECgQBBgBVAwAFBVFWUQ8HAA5BHkYSRhRUUFhmW1UWXgIGAVdIEhYVB0BvWQdAA0ZQD1cGUlkQShNFXFRXEw5VAQoEU1EFVlJSHhJACgYbXgxCD15IQ1ceRVRHV1NdawBRRVoBARJZCBdeXBxBDVc7BlIOUwoFEFwTABcVEFhHFBYJXRcIXE9EAFtEQgIWXEZYWRZeCE0QBV5EW01ASBZeFnF3QEgSBh4WV15DCg1XRlgVF0FGTRAPQm5HXEFFRgFVXlYQRgpBVkAeEl0CGmYHDVkNVwcVWwlfQhcDEAAWSBZeXAwNRAwUPUJZVEFYVxEOWx4=
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetv/list/386x386/09zeetvzeetv.png" group-title="INDIAN (Free)",Zee TV
 https://y5w8j4a9.ssl.hwcdn.net/apacsea/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png" group-title="INDIAN (Free)",Zee TV HD
@@ -504,7 +504,7 @@ https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/220px-Asian_Food_Network.svg.png" group-title="INFOTAINMENT (Free)",AFC
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/zz.jpg" group-title="INFOTAINMENT (Free)",Zee Zest
-https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/zz.m3u8
+http://ov100.novacdn.xyz/nmbkxvrteswazx/9780854213567/6401?token=SRJYAhFRRlgVUlQGA1RWU1JUAVEGA1IECgQBBgBVAwAFBVFWUQ8HAA5BHkYSRhRUUFhmW1UWXgIGAVdIEhYVB0BvWQdAA0ZQD1cGUlkQShNFXFRXEw5VAQoEU1EFVlJSHhJACgYbXgxCD15IQ1ceRVRHV1NdawBRRVoBARJZCBdeXBxBDVc7BlIOUwoFEFwTABcVEFhHFBYJXRcIXE9EAFtEQgIWXEZYWRZeCE0QBV5EW01ASBZeFnF3QEgSBh4WV15DCg1XRlgVF0FGTRAPQm5HXEFFRgFVXlYQRgpBVkAeEl0CGmYHDVkNVwcVWwlfQhcDEAAWSBZeXAwNRAwUPUJZVEFYVxEOWx4=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/Food_Food_%28TV_Channel%29_Logo.jpg" group-title="INFOTAINMENT (Free)",Food Food
 http://ov100.novacdn.xyz/nmbkxvrteswazx/9780854213567/6399?token=SRJYAhFRRlgVUlQGA1RWU1JUAVEGA1IECgQBBgBVAwAFBVFWUQ8HAA5BHkYSRhRUUFhmW1UWXgIGAVdIEhYVB0BvWQdAA0ZQD1cGUlkQShNFXFRXEw5VAQoEU1EFVlJSHhJACgYbXgxCD15IQ1ceRVRHV1NdawBRRVoBARJZCBdeXBxBDVc7BlIOUwoFEFwTABcVEFhHFBYJXRcIXE9EAFtEQgIWXEZYWRZeCE0QBV5EW01ASBZeFnF3QEgSBh4WV15DCg1XRlgVF0FGTRAPQm5HXEFFRgFVXlYQRgpBVkAeEl0CGmYHDVkNVwcVWwlfQhcDEAAWSBZeXAwNRAwUPUJZVEFYVxEOWx4=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/RTD-TV-logo.png/220px-RTD-TV-logo.png" group-title="INFOTAINMENT (Free)",RT Documentary
@@ -626,7 +626,7 @@ http://otv.ftpbd.net:80/streams/116/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS (Free)",Star Sports Select 1 HD (1)
 http://global.thunderbd.com/27/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS (Free)",Star Sports Select 1 HD (2)
-http://otv.ftpbd.net:80/streams/114/index.m3u8
+http://otv.ftpbd.net:80/streams/113/index.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS (Free)",Star Sports Select 2 HD (1)
 http://global.thunderbd.com/28/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS (Free)",Star Sports Select 2 HD (2)
