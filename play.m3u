@@ -576,13 +576,13 @@ http://210.210.155.35/dr9445/h/h02/01.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="SPORTS LIVE",## SPORTS LIVE ##
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/amarnettvFree.mp4
 #EXTINF:-1 tvg-logo="https://cdn.siasat.com/wp-content/uploads/2020/02/IPL-2020-1.jpg" group-title="SPORTS LIVE",Rabbitholebd HD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1602878239/ei/vqaJX7_8NbWR3LUP4sCT6A8/ip/103.120.194.36/id/a50gLTFzO60.5/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/1080/maudio/1/gcr/bd/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPEGE8Obn6hbCnXABSAlMFHfc6_K1kbAfsmbW_iKZDIVAiBVHBBLLupWJpbH1G9mmqBo4MMAQ8p-py4ZmUN8eQ-Auw%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1602960571/ei/W-iKX5CCBdaqz7sPouuAgAE/ip/103.120.194.37/id/a50gLTFzO60.5/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/1080/maudio/1/gcr/bd/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKMFR8ZYztj4S7MvN3LAF4aK_BP6Nvd0_8VvGP0IW_oYAiEAkbUSh3DZFF5kDU4qfdVTDB7KQmj_Ps5KmOznH6U-8ro%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.siasat.com/wp-content/uploads/2020/02/IPL-2020-1.jpg" group-title="SPORTS LIVE",IPL Live 1
 http://103.132.180.245:8080/2/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.siasat.com/wp-content/uploads/2020/02/IPL-2020-1.jpg" group-title="SPORTS LIVE",IPL Live 2
-http://103.211.185.98:8082/201/index.m3u8?token=86e4ea4dc61b8a7da8732899ca412a9dccd68e47-7c8aadba97247ade40e74c4bac097b7b-1602867425-1602856625&remote=103.120.194.25
+http://103.211.185.98:8082/201/index.m3u8?token=a8b379b132f521d6244e21c7694f5432ee7888c3-f50dee062c672b9d583a02fd24155b78-1602949761-1602938961&remote=103.120.194.25
 #EXTINF:-1 tvg-logo="https://cdn.siasat.com/wp-content/uploads/2020/02/IPL-2020-1.jpg" group-title="SPORTS LIVE",IPL Live 3
-http://103.211.185.98:8082/25/index.m3u8?token=142c1d80954db287eeb68ab3ed24238e7e8f022d-e17260be67b9667236104e9b5f84a587-1602867461-1602856661&remote=103.120.194.25
+http://103.211.185.98:8082/25/index.m3u8?token=97b66bcf264bf15b32d234c373c5d9e39b7d974a-9c25a9f5bb4f8ad59be3b94090a96fff-1602949817-1602939017&remote=103.120.194.25
 #EXTINF:-1 tvg-logo="https://cdn.siasat.com/wp-content/uploads/2020/02/IPL-2020-1.jpg" group-title="SPORTS LIVE",IPL Live 4
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/pksports.stream/live-orgin/pksports.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.siasat.com/wp-content/uploads/2020/02/IPL-2020-1.jpg" group-title="SPORTS LIVE",IPL Live 5
@@ -635,7 +635,7 @@ http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/220px-Eurosport_Logo_2015.svg.png" group-title="SPORTS (Free)",Euro Sports 4K
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-3600
-#EXTINF:-1 tvg-id="FOXSports2.my" tvg-logo="https://i.imgur.com/n3ieiWB.png" group-title="SPORTS (Free)",Fox Sport 1
+#EXTINF:-1 tvg-id="FOXSports2.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/FoxSports1.png/200px-FoxSports1.png" group-title="SPORTS (Free)",Fox Sport 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="FOXSports2.my" tvg-logo="https://i.imgur.com/n3ieiWB.png" group-title="SPORTS (Free)",Fox Sport 2
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
@@ -1009,64 +1009,6 @@ http://78.129.222.62/stream.mp3?ipport=78.129.222.62_33116
 http://78.129.222.62/stream.mp3?ipport=78.129.222.62_33116
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Ujala Radio
 http://stream2.ujala.nl/stream/2/listen.mp3
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/amarnettv.live.png" group-title="CMCL TV",GTV 
- http://103.102.136.106:8080/cmcltv/gtv.m3u8 
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/amarnettv.live.png" group-title="CMCL TV",Maasranga Tv
-http://103.102.136.106:8080/cmcltv/masranga.m3u8 
-#EXTINF:-1  tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/amarnettv.live.png" group-title="CMCL TV",Channel I 
-http://103.102.136.106:8080/cmcltv/channeli.m3u8 
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/amarnettv.live.png" group-title="CMCL TV",Gaan Bangla 
-http://103.102.136.106:8080/cmcltv/gaanbangla.m3u8 
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/amarnettv.live.png" group-title="CMCL TV",Duronto Tv  
-http://103.102.136.106:8080/cmcltv/duronto.m3u8 
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/amarnettv.live.png" group-title="CMCL TV",Somoy TV  
-http://103.102.136.106:8080/cmcltv/somoy.m3u8 
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/amarnettv.live.png" group-title="CMCL TV",Channel 24  
-http://103.102.136.106:8080/cmcltv/channel24.m3u8 
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/amarnettv.live.png" group-title="CMCL TV",Ekattor Tv 
-http://103.102.136.106:8080/cmcltv/ekator.m3u8 
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/amarnettv.live.png" group-title="CMCL TV",Jamuna Tv  
-http://103.102.136.106:8080/cmcltv/jamuna.m3u8 
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/amarnettv.live.png" group-title="CMCL TV",DBC News 
-http://103.102.136.106:8080/cmcltv/dbcnews.m3u8 
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/amarnettv.live.png" group-title="CMCL TV",Channel 9  
-http://103.102.136.106:8080/cmcltv/channel9.m3u8 
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/amarnettv.live.png" group-title="CMCL TV",Independent Tv
-http://103.102.136.106:8080/cmcltv/independent.m3u8 
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/amarnettv.live.png" group-title="CMCL TV",News24  
-http://103.102.136.106:8080/cmcltv/news24.m3u8 
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/amarnettv.live.png" group-title="CMCL TV",Star Sports 1
-http://103.102.136.106:8080/cmcltv/tcm_StarSports1cm.m3u8 
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/amarnettv.live.png" group-title="CMCL TV",Star Sports Select 2 HD
-http://103.102.136.106:8080/cmcltv/livesports.m3u8 
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/amarnettv.live.png" group-title="CMCL TV",Live Sports 2 
-http://103.102.136.106:8080/cmcltv/livesports-2.m3u8 
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/amarnettv.live.png" group-title="CMCL TV",Live Sports 3 
-http://103.102.136.106:8080/cmcltv/tcm_live3.m3u8 
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/amarnettv.live.png" group-title="CMCL TV",Live Sports 4  
-http://103.102.136.106:8080/cmcltv/tcm_live4.m3u8 
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/amarnettv.live.png" group-title="CMCL TV",Star Jalsha HD
-http://103.102.136.106:8080/cmcltv/tcm_starjalshacm.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/amarnettv.live.png" group-title="CMCL TV",Sony Tv HD
-http://103.102.136.106:8080/cmcltv/tcm_sonyhdcm.m3u8 
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/amarnettv.live.png" group-title="CMCL TV",Colors Bangla
-http://103.102.136.106:8080/cmcltv/tcm_colorsbanglacm.m3u8 
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/amarnettv.live.png" group-title="CMCL TV",Colors  
-http://103.102.136.106:8080/cmcltv/tcm_colors.m3u8 
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/amarnettv.live.png" group-title="CMCL TV",Zee Bangla
-http://103.102.136.106:8080/cmcltv/tcm_zeebangla.m3u8 
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/amarnettv.live.png" group-title="CMCL TV",Sony Ten 1  
-http://103.102.136.106:8080/cmcltv/tcm_ten1.m3u8 
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/amarnettv.live.png" group-title="CMCL TV",Sony Ten 2  
-http://103.102.136.106:8080/cmcltv/tcm_ten2.m3u8 
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/amarnettv.live.png" group-title="CMCL TV",Sony Aath  
-http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8 
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/amarnettv.live.png" group-title="CMCL TV",Sony Max SD
-http://103.102.136.106:8080/cmcltv/tcm_sonymax.m3u8 
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/amarnettv.live.png" group-title="CMCL TV",Zee Cinema
-http://103.102.136.106:8080/cmcltv/tcm_zeecinema.m3u8 
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/amarnettv.live.png" group-title="CMCL TV",And Pictures
-http://103.102.136.106:8080/cmcltv/tcm_&picture.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_Gazi TV
 http://otv.ftpbd.net/streams/108/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_Channel 9
