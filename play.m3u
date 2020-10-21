@@ -259,10 +259,8 @@ https://y5w8j4a9.ssl.hwcdn.net/cinemausa/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/cinemauk/index.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinema/list/386x386/09zeecinemazeecinema.png" group-title="HINDI",Zee Cinema ME
 https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/index.m3u8 
-#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" group-title="HINDI",Zee Cinema HD (1)
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" group-title="HINDI",Zee Cinema HD
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
-#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" group-title="HINDI",Zee Cinema HD (2)
-http://cv.khushitv.xyz/channels.php?c=zcinemahd&e=.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeclassic/list/386x386/09zeeclassiczeebollywood.png" group-title="HINDI",Zee Bollywood
 https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeaction/list/386x386/09zeeactionzeeaction.png" group-title="HINDI",Zee Action
@@ -283,8 +281,6 @@ http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
 https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0piOCHd.png?1" group-title="HINDI",Sony MAX2
 http://dx3.gcdn.co/hindi-SONYMAX2/index.m3u8
-#EXTINF:-1 tvg-logo="https://priyoiptv.com/wp-content/uploads/2020/07/WhatsApp-Image-2020-07-31-at-09.26.02-150x150.jpeg" group-title="HINDI",Btv KADAK
-https://cdn.priyoiptv.com:444/priyoiptvweb/btvkadak.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925755500s.jpg" group-title="HINDI",WoW CINEMA
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S3lVg3i.jpg?1" group-title="HINDI",BOX CINEMA
@@ -560,7 +556,7 @@ http://210.210.155.35/dr9445/h/h02/01.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="SPORTS LIVE",## SPORTS LIVE ##
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/amarnettvFree.mp4
 #EXTINF:-1 tvg-logo="https://cdn.siasat.com/wp-content/uploads/2020/02/IPL-2020-1.jpg" group-title="SPORTS LIVE",Rabbitholebd HD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1603211465/ei/abyOX_XoINa0vgTu1r7YAw/ip/202.5.56.39/id/a50gLTFzO60.5/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/1080/maudio/1/gcr/bd/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKK0kxuaBZnw10RE8dWru0CaVS_sNzMxFel7vkxbxUquAiB2_kfaxboP-xb2bN3aMhIC5GV3I0ptNvAYbXoIa4iziA%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1603294681/ei/eQGQX9XYDIOGjuMP55u8OA/ip/202.5.56.39/id/a50gLTFzO60.5/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/gcr/bd/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMOgmZmc07Mi4oEhhfmBLseVkvvSlbKxgzSazDA8K4fqAiEAqQzL8q1BhV2bo5ld8wSouuzRzStAmHqK9LEkEFQ27cY%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.siasat.com/wp-content/uploads/2020/02/IPL-2020-1.jpg" group-title="SPORTS LIVE",IPL Live 1
 http://103.132.180.245:8080/2/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.siasat.com/wp-content/uploads/2020/02/IPL-2020-1.jpg" group-title="SPORTS LIVE",IPL Live 2
